@@ -1,0 +1,12 @@
+pyttsx3
+pypiwin32
+beautifulsoup4
+requests
+googlesearch-python
+pyaudio
+speechRecognition
+psutil
+pyautogui
+pyperclip
+wikipedia
+subprocess
